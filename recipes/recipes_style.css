@@ -1,0 +1,70 @@
+/* corn part */
+
+#title{
+    text-align: center;
+}
+
+#corn{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.description{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.description table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-collapse: collapse;
+    background-color: rgb(221, 219, 195);
+}
+
+.description td, th{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.description th{
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+.description td{
+    padding-bottom: 20px;
+}
+
+.ingredients{
+    text-align: center;
+
+}
+
+.ingredients ul{
+    text-align: center;
+    list-style-position: inside;
+}
+
+.steps{
+    text-align: center;
+
+}
+
+.steps ol{
+    text-align: center;
+    list-style-position: inside;
+}
+
+.more_source{
+    text-align: center;
+
+}
+
+.more_source ul{
+    text-align: center;
+    list-style-position: inside;
+}
