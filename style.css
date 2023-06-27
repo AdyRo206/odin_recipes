@@ -1,0 +1,48 @@
+/* index.html style */
+
+body{
+    background-image: url(images/bg2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.toplogo{
+    text-align: center;
+}
+
+.recipes{
+    padding-top: 65px;
+    text-align: center;
+    color: white;
+}
+
+.recipes li{
+    display: inline-block;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+li{
+    list-style-type: none;
+}
+
+.footer{
+    padding-top: 90px;
+    text-align: center;
+    color: white;
+}
+
+.recipes img{
+    transition: 1.3s;
+}
+
+.recipes img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    border-radius: 50px;
+}
+
+/* Corn page */
+
